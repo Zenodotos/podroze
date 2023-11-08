@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/podroze/static/css/main.b4465091.css",
-    "main.js": "/podroze/static/js/main.17b9b63a.js",
+    "main.js": "/podroze/static/js/main.4bc214cf.js",
     "index.html": "/podroze/index.html",
     "main.b4465091.css.map": "/podroze/static/css/main.b4465091.css.map",
-    "main.17b9b63a.js.map": "/podroze/static/js/main.17b9b63a.js.map"
+    "main.4bc214cf.js.map": "/podroze/static/js/main.4bc214cf.js.map"
   },
   "entrypoints": [
     "static/css/main.b4465091.css",
-    "static/js/main.17b9b63a.js"
+    "static/js/main.4bc214cf.js"
   ]
 }
